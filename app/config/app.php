@@ -122,7 +122,8 @@ return array(
 		'Illuminate\View\ViewServiceProvider',
 		'Illuminate\Workbench\WorkbenchServiceProvider',
 
-        'Blog\Post\PostServiceProvider'
+		'Blog\Post\PostServiceProvider',
+		'Blog\Post\CommentServiceProvider',
 
 	),
 
